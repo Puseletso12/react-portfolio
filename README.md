@@ -18,3 +18,7 @@ This is my personal developer portfolio showcasing my skills, projects, and serv
 - **Firebase** – Optional for contact form or back-end
 - **Git & GitHub** – Version control
 - **Netlify** – Deployment
+
+## Deployments
+- https://react-portfolio-indol-five.vercel.app/
+- https://puseletso12.github.io/react-portfolio/
